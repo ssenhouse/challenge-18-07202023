@@ -24,7 +24,7 @@
 
 Successful completion of code show in the image below
 
-![streamlit_blockchain_example](\images\pychain_streamlit.png)
+![streamlit_blockchain_example](/images/pychain_streamlit.png)
 
 
   
